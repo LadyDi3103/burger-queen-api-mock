@@ -418,7 +418,7 @@
     },
     {
       "email": "lady.admin@systers.xyz",
-      "password": "123456",
+      "password": "$123456",
       "role": "admin",
       "id": 31
     }
