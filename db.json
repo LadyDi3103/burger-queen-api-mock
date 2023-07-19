@@ -1,75 +1,15 @@
 {
   "orders": [
     {
-      "client": "Leslie",
+      "client": "Luca",
       "products": [
         {
           "qty": 1,
           "product": {
-            "id": 1,
-            "name": "Short Coffe",
-            "price": 2,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-vaso-100.png?raw=true",
-            "type": "breakfast",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Double Coffe",
-            "price": 3,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-vaso-100.png?raw=true",
-            "type": "breakfast",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dataEntry": "2023-07-12 08:24:43",
-      "id": 1
-    },
-    {
-      "client": "Fabianna",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Double Coffe",
-            "price": 3,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-vaso-100.png?raw=true",
-            "type": "breakfast",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 3,
-            "name": "Water 500ml",
-            "price": 1,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-pl%C3%A1stico-100.png?raw=true",
-            "type": "breakfast",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dataEntry": "2023-07-12 08:24:58",
-      "id": 2
-    },
-    {
-      "client": "Luis ",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Double Coffe",
-            "price": 3,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-vaso-100.png?raw=true",
+            "id": 8,
+            "name": "Pancakes",
+            "price": 6,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-panqueques-64.png?raw=true",
             "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -88,6 +28,47 @@
         {
           "qty": 1,
           "product": {
+            "id": 11,
+            "name": "Patatoes Fries",
+            "price": 7,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-papas-fritas-100.png?raw=true",
+            "type": "meals",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 14,
+            "name": "Big Soda",
+            "price": 5,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-soda-can-64.png?raw=true",
+            "type": "meals",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-07-18 18:47:16",
+      "id": 7
+    },
+    {
+      "client": "Juanita",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 10,
+            "name": "Hamburguer",
+            "price": 8,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-hamburguesa-100.png?raw=true",
+            "type": "meals",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
             "id": 8,
             "name": "Pancakes",
             "price": 6,
@@ -95,14 +76,26 @@
             "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 3,
+            "name": "Water 500ml",
+            "price": "5",
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-pl%C3%A1stico-100.png?raw=true",
+            "type": "breakfast",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
         }
       ],
-      "status": "pending",
-      "dataEntry": "2023-07-12 08:25:24",
-      "id": 3
+      "status": "delivered",
+      "dataEntry": "2023-07-18 18:47:34",
+      "id": 8,
+      "dateProcessed": "2023-07-19T14:24:43.663Z"
     },
     {
-      "client": "Luis",
+      "client": "Fabiana",
       "products": [
         {
           "qty": 1,
@@ -118,10 +111,10 @@
         {
           "qty": 1,
           "product": {
-            "id": 3,
-            "name": "Water 500ml",
-            "price": 1,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-pl%C3%A1stico-100.png?raw=true",
+            "id": 4,
+            "name": "Juice",
+            "price": "5",
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-jugo-64.png?raw=true",
             "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -129,18 +122,116 @@
         {
           "qty": 1,
           "product": {
-            "id": 4,
-            "name": "Juice",
-            "price": 3,
-            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-jugo-64.png?raw=true",
+            "id": 9,
+            "name": "Veggies Salad",
+            "price": 5,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-ensalada-100.png?raw=true",
+            "type": "meals",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 10,
+            "name": "Hamburguer",
+            "price": 8,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-hamburguesa-100.png?raw=true",
+            "type": "meals",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "2023-07-18 18:48:07",
+      "id": 9,
+      "dateProcessed": "2023-07-19T14:26:10.634Z"
+    },
+    {
+      "client": "Erick",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 8,
+            "name": "Pancakes",
+            "price": 6,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-panqueques-64.png?raw=true",
+            "type": "breakfast",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 7,
+            "name": "Sandwich",
+            "price": 6,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-s%C3%A1ndwich-100.png?raw=true",
             "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
       ],
       "status": "pending",
-      "dataEntry": "2023-07-12 08:25:40",
-      "id": 4
+      "dataEntry": "2023-07-18 18:55:52",
+      "id": 10
+    },
+    {
+      "client": "Oscar",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 8,
+            "name": "Pancakes",
+            "price": 6,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-panqueques-64.png?raw=true",
+            "type": "breakfast",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 7,
+            "name": "Sandwich",
+            "price": 6,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-s%C3%A1ndwich-100.png?raw=true",
+            "type": "breakfast",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-07-18 18:57:52",
+      "id": 11
+    },
+    {
+      "client": "hernan",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 12,
+            "name": "Peperoni Pizza",
+            "price": 9,
+            "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-pizza-100.png?raw=true",
+            "type": "meals",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "2023-07-18 18:57:58",
+      "id": 12
+    },
+    {
+      "client": "",
+      "products": [],
+      "status": "pending",
+      "dataEntry": "2023-07-18 21:35:04",
+      "id": 13
     }
   ],
   "products": [
@@ -163,7 +254,7 @@
     {
       "id": 3,
       "name": "Water 500ml",
-      "price": 1,
+      "price": "5",
       "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-pl%C3%A1stico-100.png?raw=true",
       "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
@@ -171,7 +262,7 @@
     {
       "id": 4,
       "name": "Juice",
-      "price": 3,
+      "price": "5",
       "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-jugo-64.png?raw=true",
       "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
@@ -179,7 +270,7 @@
     {
       "id": 5,
       "name": "Croissant",
-      "price": 2,
+      "price": "5",
       "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-cruas%C3%A1n-100.png?raw=true",
       "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
@@ -187,7 +278,7 @@
     {
       "id": 6,
       "name": "Slice Bread",
-      "price": 1,
+      "price": "6",
       "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-pan-100.png?raw=true",
       "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
@@ -271,6 +362,27 @@
       "image": "https://github.com/LadyDi3103/DEV005-burger-queen-api-client/blob/main/Burger-Queen-Api-Client/src/assets/img/icons8-papas-fritas-100.png?raw=true",
       "type": "meals",
       "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "name": "hola",
+      "price": "2",
+      "image": "ds",
+      "type": "breakfast",
+      "id": 17
+    },
+    {
+      "name": "d",
+      "price": "s",
+      "image": "",
+      "type": "meals",
+      "id": 18
+    },
+    {
+      "name": "limon",
+      "price": "3",
+      "image": "",
+      "type": "meals",
+      "id": 19
     }
   ],
   "users": [
@@ -287,26 +399,20 @@
       "id": 26
     },
     {
-      "email": "lady.admin@systers.com",
-      "password": "$2a$10$7Btd4SZQ0pD/m82DV9hrOOVJVC0GCqedE0CmjqRCmkNUskIqwDzsi",
+      "email": "lady.admin@systerss.xyz",
+      "password": "$2a$10$7oovIs3GlLH/KtM5rEFiX.P4ltjKGtOG4Xb5nCxiwgXIXEf/SswSe",
       "role": "admin",
       "id": 27
     },
     {
-      "email": "indira.admin@systers.xyz",
-      "password": "$2a$10$ntMTp.GhWf7g9AfM.G0Lje2NOD84k560rpepP/WAlbARNH1SwANyu",
-      "role": "admin",
-      "id": 28
-    },
-    {
       "email": "indira.chef@systers.xyz",
-      "password": "$2a$10$Oxz6a68oFS9HUeH82rslXuhhPGvx8ZB9NVgK5NiFR5oo9PGRHXGpm",
+      "password": "$2a$10$CtzWyOM6xY8EJqAfuELQLeISIreJ6AcM2F5nheWafQEfz/htFmsCu",
       "role": "chef",
       "id": 29
     },
     {
       "email": "indira.waiter@systers.xyz",
-      "password": "$2a$10$RuypeazkVe1a2PSUu9atneBmoAx6nIcL/gBK.Y6vGq4d6ItxTyN4W",
+      "password": "$2a$10$fBMQsJ8km85bD/oeL/mSsOXioXaDyU4X8Fx0DmXou9Ytxsch2tb0W",
       "role": "waiter",
       "id": 30
     }
