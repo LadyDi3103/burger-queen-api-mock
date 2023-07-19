@@ -399,12 +399,6 @@
       "id": 26
     },
     {
-      "email": "lady.admin@systerss.xyz",
-      "password": "$2a$10$7oovIs3GlLH/KtM5rEFiX.P4ltjKGtOG4Xb5nCxiwgXIXEf/SswSe",
-      "role": "admin",
-      "id": 27
-    },
-    {
       "email": "indira.chef@systers.xyz",
       "password": "$2a$10$CtzWyOM6xY8EJqAfuELQLeISIreJ6AcM2F5nheWafQEfz/htFmsCu",
       "role": "chef",
@@ -417,10 +411,52 @@
       "id": 30
     },
     {
-      "email": "lady.admin@systers.xyz",
-      "password": "$123456",
+      "email": "diana.admin@systers.xyz",
+      "password": "$2a$10$lbSJLjFarDVFohDseg0cOusrWASS6Lhs9mcgMlaGgHYv9nYTspcxW",
       "role": "admin",
       "id": 31
+    },
+    {
+      "email": "lady.admin@systers.xyz",
+      "password": "$2a$10$c5Pqx7ekxS9okQVx/0tmtutHqhlNq58XOYx4h7j8d0h5lBYp1v1f2",
+      "role": "admin",
+      "id": 32
+    },
+    {
+      "email": "indira.admin@systers.xyz",
+      "password": "$2a$10$g2MGY70unqbR8PH2VJQ5G.0QWkrCO18s4JWu7n5sjKovuL51WNOMm",
+      "role": "admin",
+      "id": 33
+    },
+    {
+      "email": "diana.chef@systers.xyz",
+      "password": "$2a$10$YkIKnd5aHQZG9vBsNoLEeOP.v1euTLE07QAL4l5hyvXv2SQyyOncS",
+      "role": "chef",
+      "id": 34
+    },
+    {
+      "email": "diana.waiter@systers.xyz",
+      "password": "$2a$10$9LIuODFPD9EjfPJnHs9M4OEP09qz/KpjwFLZMyQMfTb6QfuilUDtm",
+      "role": "waiter",
+      "id": 35
+    },
+    {
+      "email": "user.admin@systers.xyz",
+      "password": "$2a$10$ilnyo1jJjQnP4Zu0jhXVQ.OJo4oejGgCtg2trdecS9TfEVrcjTaiS",
+      "role": "admin",
+      "id": 36
+    },
+    {
+      "email": "user.chef@systers.xyz",
+      "password": "$2a$10$KNtlZbSpDcU9TRkoTy/y3Ox0qIjuzf78ZBYSDRuWjNpQufwbtzHuO",
+      "role": "chef",
+      "id": 37
+    },
+    {
+      "email": "user.waiter@systers.xyz",
+      "password": "$2a$10$xOlHOqvs4JTKXT70BJ0tkulv6zwmz1G91nyWbzb7WgM0Q6Q1Zwcoy",
+      "role": "waiter",
+      "id": 38
     }
   ]
 }
