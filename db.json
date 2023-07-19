@@ -415,6 +415,12 @@
       "password": "$2a$10$fBMQsJ8km85bD/oeL/mSsOXioXaDyU4X8Fx0DmXou9Ytxsch2tb0W",
       "role": "waiter",
       "id": 30
+    },
+    {
+      "email": "lady.admin@systers.xyz",
+      "password": "123456",
+      "role": "admin",
+      "id": 31
     }
   ]
 }
